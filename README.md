@@ -6,6 +6,20 @@
 
 ---
 
+## Скачать Happ
+
+### iPhone / iPad
+- [App Store Global](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215)
+- [App Store Rus](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973)
+- [Testflight Global](https://testflight.apple.com/join/XMls6Ckd)
+- [Testflight Rus](https://testflight.apple.com/join/1bKEcMub)
+
+### Android
+- [Google Play](https://play.google.com/store/apps/details?id=com.happproxy)
+- [Download APK](https://github.com/Happ-proxy/happ-android/releases/latest/download/Happ.apk)
+
+---
+
 ## Быстрый старт
 
 1. Установите приложение **Happ**
