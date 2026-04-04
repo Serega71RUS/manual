@@ -148,8 +148,8 @@
 ### Шаг 4. Сгенерируйте конфиг Mihomo
 
 1. Откройте сайт [Outbound Generator](https://zxc-rv.github.io/XKeen-UI/Outbound_Generator/)
-2. Вставьте строку `vless://...`
-3. Выберите **Mihomo**
+2. Выберите **Mihomo**
+3. Вставьте строку `vless://...`
 4. Нажмите **Сгенерировать**
 
 ![Outbound Generator Mihomo](images/outbound-generator-mihomo.png)
